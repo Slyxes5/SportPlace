@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "159196934697",
+    "firebase_url": "https://sportplacemanado-default-rtdb.firebaseio.com",
+    "project_id": "sportplacemanado",
+    "storage_bucket": "sportplacemanado.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159196934697:android:d9eb3d993285b756042238",
+        "android_client_info": {
+          "package_name": "com.example.sport_place"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ugu31JUlDdSq-i-t4moUkgtu2gBgulQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159196934697:android:277cfb9e5a3b64a9042238",
+        "android_client_info": {
+          "package_name": "com.example.sport_place_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ugu31JUlDdSq-i-t4moUkgtu2gBgulQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159196934697:android:8da90340aa529779042238",
+        "android_client_info": {
+          "package_name": "com.sportplace.manado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ugu31JUlDdSq-i-t4moUkgtu2gBgulQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

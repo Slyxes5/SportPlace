@@ -1,0 +1,13 @@
+{
+  "name": "Lapangan Futsal A",
+  "category": "Futsal",
+  "price": "100000",
+  "address": "Jl. Olahraga No. 1, Manado",
+  "latitude": -1.47483,
+  "longitude": 124.84593,
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1599050751726-61b3a831bdfb?auto=format&fit=crop&w=800&q=60",
+    "https://images.unsplash.com/photo-1585776245991-f1522958fc50?auto=format&fit=crop&w=800&q=60",
+    "https://images.unsplash.com/photo-1580846986920-526ea148ea01?auto=format&fit=crop&w=800&q=60"
+  ]
+}
